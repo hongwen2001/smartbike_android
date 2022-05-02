@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">smartbike</string>
-    <string name="facebook_app_id">1172213746943187</string>
-    <string name="fb_login_protocol_scheme">fb1172213746943187</string>
-    <string name="facebook_client_token">d5c9d477e4a6ddcaa4d1fa07a6bde974</string>
-    <string name="login">sign in</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="key">413722898815-6fuj1r7eiqhu8gqd88geoql5kda3irnn.apps.googleusercontent.com</string>
-</resources>
